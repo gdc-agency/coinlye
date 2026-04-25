@@ -113,7 +113,7 @@ const Footer = () => {
                 </div>
                 <div className="footer_bottom text-center">
   <p className="copyright_text m-0 text-secondary">
-    Copyright © 2025{" "}
+    Copyright © 2026{" "}
     <a href="https://www.globaldigitalcare.pk/" target="_blank" rel="noopener noreferrer">
       Global Digital Care
     </a>. All rights reserved.
