@@ -112,8 +112,13 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer_bottom text-center">
-                    <p className="copyright_text m-0 text-secondary">Copyright© 2025 Global Digital Care. All rights reserved.</p>
-                </div>
+  <p className="copyright_text m-0 text-secondary">
+    Copyright © 2025{" "}
+    <a href="https://www.globaldigitalcare.pk/" target="_blank" rel="noopener noreferrer">
+      Global Digital Care
+    </a>. All rights reserved.
+  </p>
+</div>
             </div>
         </footer>
     );
