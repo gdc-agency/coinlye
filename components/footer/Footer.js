@@ -112,7 +112,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer_bottom text-center">
-                    <p className="copyright_text m-0 text-secondary">Copyright© 2025 Coinlye. All rights reserved.</p>
+                    <p className="copyright_text m-0 text-secondary">Copyright© 2025 Global Digital Care. All rights reserved.</p>
                 </div>
             </div>
         </footer>
